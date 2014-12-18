@@ -1,0 +1,5 @@
+C:\Users\Sony\Documents\GitHub\HtmlRenderEngine\HtmlRenderEngine\HtmlRenderEngine.Test\bin\Debug\HtmlRenderEngine.Test.dll
+C:\Users\Sony\Documents\GitHub\HtmlRenderEngine\HtmlRenderEngine\HtmlRenderEngine.Test\bin\Debug\HtmlRenderEngine.Test.pdb
+C:\Users\Sony\Documents\GitHub\HtmlRenderEngine\HtmlRenderEngine\HtmlRenderEngine.Test\obj\Debug\HtmlRenderEngine.Test.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Documents\GitHub\HtmlRenderEngine\HtmlRenderEngine\HtmlRenderEngine.Test\obj\Debug\HtmlRenderEngine.Test.dll
+C:\Users\Sony\Documents\GitHub\HtmlRenderEngine\HtmlRenderEngine\HtmlRenderEngine.Test\obj\Debug\HtmlRenderEngine.Test.pdb
