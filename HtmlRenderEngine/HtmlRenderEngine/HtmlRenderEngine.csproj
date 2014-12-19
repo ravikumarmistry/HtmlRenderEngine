@@ -40,12 +40,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstract\AElement.cs" />
-    <Compile Include="Class\Container.cs" />
-    <Compile Include="Interface\IContainer.cs" />
+    <Compile Include="Elements\Anchor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Enum\" />
+    <Folder Include="Interface\" />
     <Folder Include="Options\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
